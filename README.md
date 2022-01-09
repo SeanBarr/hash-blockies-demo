@@ -5,8 +5,8 @@ The Blockies is a pixel representation that makes it easier for the human to rec
 
 ![Hash Blockies Demo preview photo](https://github.com/SeanBarr/hash-blockies-demo/blob/main/image/preview.png?raw=true)
 
-Git Clone to run: 
-git@github.com:SeanBarr/hash-blockies-demo.git
+To clone the repo use the following command: 
+git clone github.com/SeanBarr/hash-blockies-demo.git
 
 Live Demo Link: 
 https://seanbarr.github.io/hash-blockies-demo
